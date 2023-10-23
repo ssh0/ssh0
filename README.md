@@ -1,4 +1,15 @@
-### Hi there 👋
+
+
+    '##::::::::'######:::'######::'##::::'##:::'#####:::
+    . ##::::::'##... ##:'##... ##: ##:::: ##::'##.. ##::
+    :. ##::::: ##:::..:: ##:::..:: ##:::: ##:'##:::: ##:
+    ::. ##::::. ######::. ######:: #########: ##:::: ##:
+    :: ##::::::..... ##::..... ##: ##.... ##: ##:::: ##:
+    : ##::::::'##::: ##:'##::: ##: ##:::: ##:. ##:: ##::
+    ##:::::::. ######::. ######:: ##:::: ##::. #####:::
+    ..:::::::::......::::......:::..:::::..::::.....::::
+
+
 
 <!--
 **ssh0/ssh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ssh0/dot ... dotfiles management framework with shell (bash, zsh)
+- ssh0/dotfiles ... This repository contains my dotfiles.
+
